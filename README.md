@@ -1,4 +1,6 @@
-Homework 2 - CS 169.1x SaaS
+Lauren Jensen's hw2 repository
+
+<!--Homework 2 - CS 169.1x SaaS
 ==================
 
 THIS REPOSITORY IS DEPRECATED AND WILL SOON BE DELETED.  DO NOT USE IT.
@@ -34,4 +36,4 @@ that code, should be used as the basis of your homework assignments.
 
 Thanks - the CS169 course authors
 
-More info at https://courses.edx.org/courses/BerkeleyX/CS-169.1x/2013_Summer/courseware/Week_3x/Homework_2/
+More info at https://courses.edx.org/courses/BerkeleyX/CS-169.1x/2013_Summer/courseware/Week_3x/Homework_2/-->
