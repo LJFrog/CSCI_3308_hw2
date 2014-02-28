@@ -13,8 +13,8 @@ class MoviesController < ApplicationController
     sort = params[:sort]
     if sort == 'title'
     	@movies = Movie.find(:all, :order => 'title')
-    elsif sort == 'release_date'
-    	@movies = Movie.find(:all, :order => 'release_date')
+    elsif sort == 'release date'
+    	@movies = Movie.find(:all, :order => 'release date')
     else
     	@movies = Movie.all
     end
