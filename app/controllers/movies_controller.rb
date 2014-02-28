@@ -9,6 +9,7 @@ class MoviesController < ApplicationController
   def index
     #@movies = Movie.all
     @hilite = Hash.new { |hash, key| hash[key] = '' }
+    @all_ratings = Movie.rating()
     
     sort = params[:sort]
     if sort == 'title'
